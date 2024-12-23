@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I am Elio! 
 
-<!--
-**ElioFernandez/ElioFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- iOS developer with a strong preference for Swift.
+- Specialized in SwiftUI, crafting intuitive user interfaces and seamless animations.
+- Passionate about designing visually appealing apps and developing innovative features to enhance user experience.
 
-Here are some ideas to get you started:
+<details open>
+<summary>🤝 <b>To connect with me</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elio-fernandez-dvlp/)
+[<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />](mailto:eliofernandezdvlp@gmail.com)
+
+</p>
+
+</details>
